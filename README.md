@@ -77,7 +77,7 @@ This is a **Single Tier Architecture** application:
 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/ss24214859/Tic-Tac-Toe-Arabic-And-Enlish.git
+git clone https://github.com/Mohamed-Shaaban-cs/Tic-Tac-Toe-Arabic-And-Enlish.git
 ```
 
 2️⃣ Open the solution file in Visual Studio.
