@@ -10,7 +10,6 @@ This project was built as part of practical training while studying desktop appl
 
 ---
 
-<<<<<<< HEAD
 ## 🏗 System Architecture
 
 This is a **Single Tier Architecture** application:
@@ -31,7 +30,6 @@ This is a **Single Tier Architecture** application:
 
 * C#
 * .NET Framework – Windows Forms
-* XML (for language files)
 * Visual Studio
 
 ---
@@ -105,7 +103,7 @@ git clone https://github.com/ss24214859/Tic-Tac-Toe-Arabic-And-Enlish.git
 
 **Mohamed Shaaban**
 
-* GitHub: [https://github.com/ss24214859](https://github.com/ss24214859)
+* GitHub: [Mohamed Shaaban ](https://github.com/Mohamed-Shaaban-cs)
 
 ---
 
