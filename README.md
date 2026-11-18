@@ -6,7 +6,7 @@
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download/dotnet-framework/net48)
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-0078D4)](https://learn.microsoft.com/dotnet/desktop/winforms/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![License](https://img.shields.io/badge/License-Not%20Specified-lightgrey)](#-license)
+<a href="#license"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 
 ## 📋 Overview
 
@@ -217,8 +217,6 @@ Language values used by the application are:
 
 - GitHub: [@mohamed-shaaban-cs](https://github.com/mohamed-shaaban-cs)
 
-## 📜 License
+## License
 
-No SPDX license or license file is currently specified in this repository. The existing README describes the project as intended for learning and training purposes.
-
-Until an explicit license is added, all rights remain with the repository owner. External reuse or redistribution should not be assumed.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
